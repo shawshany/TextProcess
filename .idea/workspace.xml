@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9be39cdf-37e0-4ace-87cc-ed97f90a0cc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="130">
-                <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <first_editor relative-caret-position="255">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,11 +49,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/lib/TextProcess/zh_wiki.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Text_Process.egg-info/PKG-INFO">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -130,8 +124,8 @@
         <option value="$PROJECT_DIR$/TextProcess/setup.py" />
         <option value="$PROJECT_DIR$/TextProcess/README.md" />
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -181,17 +175,7 @@
             <path>
               <item name="TextProcess" type="b2602c69:ProjectViewProjectNode" />
               <item name="TextProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="Text_Process.egg-info" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TextProcess" type="b2602c69:ProjectViewProjectNode" />
               <item name="TextProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="TextProcess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TextProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TextProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="TextProcess.egg-info" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,18 +253,18 @@
       <updated>1569817997599</updated>
       <workItem from="1569817998923" duration="193000" />
       <workItem from="1569818370036" duration="4360000" />
-      <workItem from="1569822977881" duration="3255000" />
+      <workItem from="1569822977881" duration="3472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7808000" />
+    <option name="totallyTimeSpent" value="8025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +278,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,8 +390,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <first_editor relative-caret-position="255">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>

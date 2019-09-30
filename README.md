@@ -20,7 +20,6 @@
 # 安装方法
 ```pip install TextOra```
 
-```pip install -r requirements.txt```
 # 使用方法
 ```
 import TextOra.TextProcess as tp
