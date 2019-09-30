@@ -1,0 +1,13 @@
+README.md
+setup.py
+TextProcess/TextProcess.py
+TextProcess/__init__.py
+TextProcess/langconv.py
+TextProcess/zh_wiki.py
+TextProcess.egg-info/PKG-INFO
+TextProcess.egg-info/SOURCES.txt
+TextProcess.egg-info/dependency_links.txt
+TextProcess.egg-info/top_level.txt
+TextProcess/emoji/__init__.py
+TextProcess/emoji/core.py
+TextProcess/emoji/unicode_codes.py
