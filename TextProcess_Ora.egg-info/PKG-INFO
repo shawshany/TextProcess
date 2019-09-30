@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: TextOra
-Version: 0.0.2
+Name: TextProcess-Ora
+Version: 0.0.1
 Summary: compute similar scores of two text
 Home-page: https://github.com/shawshany/TextProcess
 Author: Ora
@@ -26,11 +26,11 @@ Description: # TextProcess Package
         * 保留中文和英文
         * 保留中文和英文及数字
         # 安装方法
-        ```pip install TextOra```
+        ```pip install TextProcess_Ora```
         
         # 使用方法
         ```
-        import TextOra.TextProcess as tp
+        import TextProcess.TextProcess as tp
         
         
         if __name__ == '__main__':

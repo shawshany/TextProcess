@@ -18,11 +18,11 @@
 * 保留中文和英文
 * 保留中文和英文及数字
 # 安装方法
-```pip install TextOra```
+```pip install TextProcess_Ora```
 
 # 使用方法
 ```
-import TextOra.TextProcess as tp
+import TextProcess.TextProcess as tp
 
 
 if __name__ == '__main__':

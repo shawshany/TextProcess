@@ -15,7 +15,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="TextOra",
+    name="TextProcess_Ora",
     version="0.0.1",
     author="Ora",
     author_email="victor.xsyang@gmail.com",
