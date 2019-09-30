@@ -18,12 +18,12 @@
 * 保留中文和英文
 * 保留中文和英文及数字
 # 安装方法
-```pip install TextProcess```
+```pip install TextClean```
 
 ```pip install -r requirements.txt```
 # 使用方法
 ```
-import TextProcess.TextProcess as tp
+import TextClean.TextProcess as tp
 
 
 if __name__ == '__main__':
