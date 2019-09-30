@@ -15,7 +15,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="TextClean",
+    name="TextOra",
     version="0.0.1",
     author="Ora",
     author_email="victor.xsyang@gmail.com",
