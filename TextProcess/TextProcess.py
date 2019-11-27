@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 # -*-coding:utf-8 -*-
+from __future__ import print_function
+from __future__ import division
+from __future__ import unicode_literals
+from __future__ import absolute_import
 #Reference:**********************************************
 # @Time     : 2019-09-30 12:34
 # @Author   : 病虎
@@ -7,11 +11,13 @@
 # @File     : TextProcess.py
 # @User     : ora
 # @Software: PyCharm
-# @Description: 
+# @Description:
 #Reference:**********************************************
 from TextProcess.langconv import *
 import re
 from TextProcess import emoji
+
+
 
 """
 ### 基础正则过滤
@@ -91,7 +97,7 @@ class TextProcess():
                     inside_code = 32
                 elif (inside_code >= 65281 and inside_code <= 65374):  # 全角字符（除空格）根据关系转化
                     inside_code -= 65248
-                rstring += chr(inside_code)
+                rstring += unichr(inside_code)
             ss += rstring
         return ss
 

@@ -16,7 +16,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TextProcess_Ora",
-    version="0.0.2",
+    version="0.0.3",
     author="Ora",
     author_email="victor.xsyang@gmail.com",
     description="compute similar scores of two text",
@@ -25,9 +25,10 @@ setuptools.setup(
     url="https://github.com/shawshany/TextProcess",
     packages=setuptools.find_packages(),
     classifiers=[
+        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.*',
+    python_requires='>=2.7',
 )

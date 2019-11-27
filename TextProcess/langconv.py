@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 # -*-coding:utf-8 -*-
+from __future__ import print_function
+from __future__ import division
+from __future__ import unicode_literals
+from __future__ import absolute_import
 #Reference:**********************************************
 # @Time     : 2019-09-30 12:36
 # @Author   : 病虎
@@ -10,6 +14,8 @@
 # @Description: 
 #Reference:**********************************************
 from copy import deepcopy
+
+
 
 try:
     import psyco

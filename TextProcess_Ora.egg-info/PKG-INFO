@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: TextProcess-Ora
-Version: 0.0.2
+Version: 0.0.3
 Summary: compute similar scores of two text
 Home-page: https://github.com/shawshany/TextProcess
 Author: Ora
@@ -92,8 +92,9 @@ Description: # TextProcess Package
             print(test.evaluate(test_string, 'OnlinePipeStrictMost'))
         ```
 Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.*
+Requires-Python: >=2.7
 Description-Content-Type: text/markdown

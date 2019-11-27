@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 # -*-coding:utf-8 -*-
+from __future__ import print_function
+from __future__ import division
+from __future__ import unicode_literals
+from __future__ import absolute_import
 #Reference:**********************************************
 # @Time     : 2019-09-30 12:48
 # @Author   : 病虎
@@ -9,6 +13,7 @@
 # @Software: PyCharm
 # @Description: 
 #Reference:**********************************************
+
 import TextProcess.TextProcess as tp
 
 
@@ -68,5 +73,5 @@ if __name__ == '__main__':
     print(test.evaluate(test_string, 'OnlinePipeStrictMore'))
 
     #一条龙服务 极强过滤
-    print(test.evaluate(test_string, 'OnlinePipeStrictMost'))
+    print(test.evaluate('', 'OnlinePipeStrictMost'))
 

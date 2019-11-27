@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 # -*-coding:utf-8 -*-
+from __future__ import print_function
+from __future__ import division
+from __future__ import unicode_literals
+
 #Reference:**********************************************
 # @Time     : 2019-09-30 12:34
 # @Author   : 病虎
@@ -12,6 +16,8 @@
 from TextProcess.langconv import *
 import re
 from TextProcess import emoji
+
+
 
 """
 ### 基础正则过滤
